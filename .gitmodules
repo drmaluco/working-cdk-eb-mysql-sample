@@ -1,0 +1,3 @@
+[submodule "cdk-templates"]
+	path = cdk-templates
+	url = https://github.com/klugeinteractive/cdk-templates.git
